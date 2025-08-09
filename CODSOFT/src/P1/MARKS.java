@@ -36,5 +36,5 @@ public class MARKS {
 		else {
 			System.out.println("The grade is U.You ae Fail...");
 		}
-	}
+	}//hioofjgjoggj
 }
